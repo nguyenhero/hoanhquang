@@ -1,4 +1,14 @@
 ---
 label: lloki
 hide_body: false
-fields: []
+fields:
+- name: jggffff
+  type: textarea
+  default: ''
+  config:
+    required: false
+    wysiwyg: false
+    schema:
+      format: markdown
+  label: jggffff
+  description: hghgdghdhgddhdhdhgdh
